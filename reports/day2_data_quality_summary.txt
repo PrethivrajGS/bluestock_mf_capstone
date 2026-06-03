@@ -1,0 +1,267 @@
+DAY 2 DATA CLEANING & DATABASE SUMMARY
+
+Project: Mutual Fund Analytics Capstone
+
+
+============================================================
+
+1. DATA CLEANING STATUS
+   ============================================================
+
+All datasets required for analysis were cleaned and moved from:
+
+data/raw/
+
+to
+
+data/processed/
+
+The cleaning process included:
+
+• Date standardization
+• Duplicate removal
+• Missing value handling
+• Numeric data validation
+• Business rule validation
+• Dataset consistency checks
+
+============================================================
+2. DATASETS CLEANED
+===================
+
+1. fund_master.csv
+2. scheme_details.csv
+3. nav_history.csv
+4. aum_data.csv
+5. returns_data.csv
+6. risk_metrics.csv
+7. expense_ratio.csv
+8. portfolio_holdings.csv
+9. benchmark_data.csv
+10. sip_data.csv
+
+============================================================
+3. NAV HISTORY CLEANING
+=======================
+
+Dataset: nav_history.csv
+
+Actions Performed:
+
+• Converted date column to datetime format
+• Sorted by scheme_code and date
+• Removed duplicate records
+• Forward-filled missing NAV values
+• Validated NAV values greater than zero
+• Saved cleaned dataset to:
+
+data/processed/nav_history.csv
+
+Result:
+
+✔ Date standardization completed
+✔ Invalid NAV records removed
+✔ Dataset ready for analytics
+
+============================================================
+4. SIP DATA CLEANING
+====================
+
+Dataset: sip_data.csv
+
+Actions Performed:
+
+• Converted month column to datetime format
+• Removed duplicate records
+• Validated SIP amount fields
+• Validated units purchased values
+• Validated investment amounts
+• Converted numeric columns
+• Flagged abnormal XIRR values
+
+Result:
+
+✔ Investment records validated
+✔ Numeric consistency ensured
+✔ Dataset ready for performance analysis
+
+============================================================
+5. RETURNS DATA CLEANING
+========================
+
+Dataset: returns_data.csv
+
+Actions Performed:
+
+• Converted all return columns to numeric format
+• Converted as_of_date to datetime
+• Removed duplicate records
+• Flagged abnormal return values
+
+Validation Rule:
+
+Return values outside expected range were marked as anomalies.
+
+Result:
+
+✔ Return metrics validated
+✔ Dataset ready for return analysis
+
+============================================================
+6. RISK METRICS CLEANING
+========================
+
+Dataset: risk_metrics.csv
+
+Actions Performed:
+
+• Converted risk columns to numeric
+• Converted as_of_date to datetime
+• Removed duplicate records
+• Validated Beta values
+• Validated R-Squared values
+• Validated Standard Deviation values
+
+Validation Rules:
+
+• Beta between 0 and 3
+• R-Squared between 0 and 1
+• Standard deviation must be non-negative
+
+Result:
+
+✔ Risk metrics validated
+✔ Dataset ready for risk analytics
+
+============================================================
+7. EXPENSE RATIO CLEANING
+=========================
+
+Dataset: expense_ratio.csv
+
+Actions Performed:
+
+• Converted percentage columns to numeric
+• Converted effective_date to datetime
+• Removed duplicate records
+• Checked SEBI compliance
+• Validated expense ratio ranges
+
+Validation Rule:
+
+Expense Ratio Range:
+0.1% – 2.5%
+
+Result:
+
+✔ Expense ratios validated
+✔ Anomalies flagged for review
+
+============================================================
+8. MASTER DATA CLEANING
+=======================
+
+Datasets:
+
+• fund_master.csv
+• scheme_details.csv
+• aum_data.csv
+• portfolio_holdings.csv
+• benchmark_data.csv
+
+Actions Performed:
+
+• Removed duplicates
+• Converted date fields
+• Converted numeric fields
+• Removed invalid values
+• Standardized formats
+
+Result:
+
+✔ Master datasets cleaned
+✔ Data consistency improved
+
+============================================================
+9. SQLITE DATABASE CREATION
+===========================
+
+Database:
+
+bluestock_mf.db
+
+Location:
+
+data/db/bluestock_mf.db
+
+Data Loading Method:
+
+• SQLAlchemy create_engine()
+• Pandas to_sql()
+
+Tables Loaded:
+
+Dimension Tables
+
+• dim_fund
+• dim_date
+
+Fact Tables
+
+• fact_nav
+• fact_transactions
+• fact_returns
+• fact_risk_metrics
+• fact_expense_ratio
+• fact_aum
+• fact_portfolio
+• fact_benchmark
+
+Result:
+
+✔ SQLite database created
+✔ Tables loaded successfully
+✔ Row counts verified
+
+============================================================
+10. DATA QUALITY OBSERVATIONS
+=============================
+
+• scheme_code successfully identified as the primary integration key
+• Historical NAV remains the largest dataset
+• Date formats standardized across datasets
+• Duplicate records removed
+• Invalid numeric values corrected or flagged
+• Datasets prepared for analytics and dashboard development
+
+============================================================
+11. DELIVERABLES COMPLETED
+==========================
+
+✔ Cleaned datasets in data/processed/
+✔ SQLite database created
+✔ ETL pipeline completed
+✔ Data validation completed
+✔ Processed datasets ready for analysis
+
+Generated Files:
+
+• data/processed/*.csv
+• data/db/bluestock_mf.db
+
+============================================================
+12. CONCLUSION
+==============
+
+Day 2 objectives completed successfully:
+
+✔ Data cleaning completed
+✔ Data validation completed
+✔ Processed datasets generated
+✔ SQLite database loaded
+✔ Data integrity checks performed
+✔ Foundation prepared for EDA and analytics
+
+Git Commit:
+
+"Day 2: Cleaned data + SQLite DB loaded"
