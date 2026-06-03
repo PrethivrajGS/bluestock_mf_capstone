@@ -1,0 +1,16 @@
+scheme_code,scheme_name,amc_name,return_1m_pct,return_3m_pct,return_6m_pct,return_1y_pct,return_3y_pct,return_5y_pct,return_since_inception_pct,category_avg_1y,benchmark_return_1y,as_of_date,return_anomaly
+119551,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,-0.83,6.98,10.69,15.74,18.48,12.71,12.73,12.2,7.82,2023-12-31,False
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,ICICI Prudential Mutual Fund,2.85,3.58,10.05,28.74,9.94,4.62,14.94,13.33,10.3,2023-12-31,False
+118632,Nippon India Large Cap Fund - Direct - Growth,Nippon India Mutual Fund,2.19,7.14,2.77,11.59,17.41,10.27,13.7,7.75,8.05,2023-12-31,False
+119092,Axis Bluechip Fund - Direct Plan - Growth,Axis Mutual Fund,1.59,8.91,0.69,14.6,10.0,16.14,9.85,13.86,10.54,2023-12-31,False
+120841,Kotak Bluechip Fund - Direct Plan - Growth,Kotak Mahindra Mutual Fund,1.76,4.28,6.24,17.82,11.67,12.34,12.43,13.16,13.17,2023-12-31,False
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,-1.27,2.6,2.22,13.68,9.13,15.5,15.52,11.15,12.49,2023-12-31,False
+118825,Canara Robeco Bluechip Equity Fund - Direct,Canara Robeco Mutual Fund,2.8,3.3,3.86,5.26,14.92,15.96,12.88,14.53,3.6,2023-12-31,False
+119028,DSP Top 100 Equity Fund - Direct - Growth,DSP Mutual Fund,4.52,3.37,8.21,11.44,17.08,9.09,17.92,13.79,14.37,2023-12-31,False
+118778,Mirae Asset Large Cap Fund - Direct - Growth,Mirae Asset Mutual Fund,0.38,-1.23,12.15,16.49,16.95,12.12,12.24,15.78,18.24,2023-12-31,False
+120465,Franklin India Bluechip Fund - Direct - Growth,Franklin Templeton Mutual Fund,1.22,0.99,11.55,11.97,13.9,11.89,18.19,11.6,13.94,2023-12-31,False
+118989,UTI Mastershare Fund - Direct Plan - Growth,UTI Mutual Fund,-0.02,2.87,5.44,19.91,15.17,14.75,13.18,13.28,15.19,2023-12-31,False
+119226,Tata Large Cap Fund - Direct Plan - Growth,Tata Mutual Fund,3.52,-6.76,6.14,12.21,14.18,12.57,15.66,10.84,13.28,2023-12-31,False
+120178,Aditya Birla SL Frontline Equity - Direct,Aditya Birla Sun Life Mutual Fund,3.45,-1.9,20.07,23.53,11.51,9.9,12.97,13.17,13.82,2023-12-31,False
+119802,IDFC Large Cap Fund - Direct Plan - Growth,IDFC Mutual Fund,4.95,2.1,10.31,3.66,9.85,14.12,15.57,11.49,11.18,2023-12-31,False
+120654,Invesco India Largecap Fund - Direct - Growth,Invesco Mutual Fund,4.85,8.65,8.54,-3.89,21.54,12.73,12.56,11.96,13.63,2023-12-31,False

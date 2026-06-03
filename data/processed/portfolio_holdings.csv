@@ -1,0 +1,676 @@
+scheme_code,scheme_name,quarter,stock_name,sector,weight_pct,market_value_cr,isin
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,2.7713,311.64,INE17904601019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,3.862,620.94,INE99754601019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,1.8707,350.91,INE15304501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,8.6106,1834.37,INE66684701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,UltraTech Cement,Materials,4.6249,1197.88,INE19779301019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Titan Company,Consumer,5.3394,1503.52,INE98992101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,5.653,616.72,INE52615601019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Maruti Suzuki,Auto,6.0607,1038.87,INE32413001019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,8.8672,2360.11,INE16148301019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,6.91,629.91,INE10226001019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Infosys,IT,2.4423,723.72,INE37808501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,2.6837,755.82,INE92326701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Axis Bank,Financials,17.8113,2916.64,INE54355501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,7.9817,1789.07,INE86599001019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q1,Nestle India,FMCG,14.5112,4336.74,INE68276501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,2.7713,597.12,INE61031101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,3.862,342.56,INE41112001019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,1.8707,195.35,INE16132401019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,8.6106,1677.31,INE66853201019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,UltraTech Cement,Materials,4.6249,301.73,INE42883801019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Titan Company,Consumer,5.3394,343.27,INE71255401019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,5.653,956.48,INE99414101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Maruti Suzuki,Auto,6.0607,1107.78,INE15964201019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,8.8672,2573.2,INE18400201019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,6.91,1816.21,INE17184901019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Infosys,IT,2.4423,485.43,INE80801101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,2.6837,712.41,INE52338901019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Axis Bank,Financials,17.8113,1424.4,INE69734701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,7.9817,890.38,INE72339801019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q2,Nestle India,FMCG,14.5112,869.73,INE18596501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,2.7713,429.01,INE71202401019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,3.862,738.83,INE43173701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,1.8707,530.67,INE31418101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,8.6106,1872.22,INE42944501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,UltraTech Cement,Materials,4.6249,507.22,INE51501101019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Titan Company,Consumer,5.3394,441.67,INE77685601019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,5.653,706.62,INE43153501019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Maruti Suzuki,Auto,6.0607,1710.66,INE17606601019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,8.8672,464.01,INE75133201019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,6.91,2070.34,INE20483701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Infosys,IT,2.4423,166.85,INE32350801019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,2.6837,473.6,INE23889001019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Axis Bank,Financials,17.8113,5046.22,INE17213201019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,7.9817,2153.59,INE48747701019
+119551,SBI Bluechip Fund - Direct Plan - Growth,2023-Q3,Nestle India,FMCG,14.5112,1759.43,INE55946901019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,5.1614,1038.52,INE85247001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,13.5605,1840.44,INE82089201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,ITC,FMCG,7.9026,1648.17,INE37680701019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Reliance Industries,Energy,7.0846,1249.38,INE36331901019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Sun Pharma,Healthcare,6.0643,1675.76,INE98720401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,9.4508,592.56,INE76509501019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Wipro,IT,8.1092,1264.17,INE39012001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,5.3435,326.07,INE44975901019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Infosys,IT,4.1278,1002.14,INE76806101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,TCS,IT,5.4448,1605.93,INE26943001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,SBI,Financials,5.9626,1403.06,INE67847801019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Titan Company,Consumer,4.6627,1055.71,INE68815301019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,HCL Technologies,IT,3.3528,175.74,INE17889801019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Kotak Mahindra Bank,Financials,6.2083,1777.2,INE82458601019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q1,Hindustan Unilever,FMCG,7.5642,2087.57,INE67209201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,5.1614,304.56,INE48715101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,13.5605,2652.81,INE25528701019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,ITC,FMCG,7.9026,1244.24,INE14386001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Reliance Industries,Energy,7.0846,900.2,INE93479401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Sun Pharma,Healthcare,6.0643,1777.12,INE14183201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,9.4508,2596.43,INE32028101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Wipro,IT,8.1092,1788.21,INE79933001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,5.3435,404.5,INE91801101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Infosys,IT,4.1278,784.15,INE52611701019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,TCS,IT,5.4448,1597.82,INE88588401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,SBI,Financials,5.9626,528.52,INE34823701019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Titan Company,Consumer,4.6627,1240.98,INE93874201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,HCL Technologies,IT,3.3528,847.22,INE53232201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Kotak Mahindra Bank,Financials,6.2083,348.88,INE87234301019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q2,Hindustan Unilever,FMCG,7.5642,2126.45,INE92039101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,5.1614,1459.16,INE94120401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,13.5605,2949.1,INE87076301019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,ITC,FMCG,7.9026,1996.9,INE37976601019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Reliance Industries,Energy,7.0846,636.19,INE83534301019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Sun Pharma,Healthcare,6.0643,467.09,INE14060501019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,9.4508,2501.14,INE33323801019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Wipro,IT,8.1092,810.05,INE58266201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,5.3435,734.28,INE96039401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Infosys,IT,4.1278,1027.14,INE33865101019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,TCS,IT,5.4448,575.68,INE79209401019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,SBI,Financials,5.9626,586.02,INE44420701019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Titan Company,Consumer,4.6627,557.89,INE17279201019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,HCL Technologies,IT,3.3528,978.07,INE39268301019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Kotak Mahindra Bank,Financials,6.2083,855.42,INE63415001019
+120503,ICICI Prudential Bluechip Fund - Direct - Growth,2023-Q3,Hindustan Unilever,FMCG,7.5642,1134.01,INE98464201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,5.4862,872.84,INE63626501019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Wipro,IT,2.2111,174.48,INE70459601019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Reliance Industries,Energy,11.2971,1101.69,INE14654201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,ICICI Bank,Financials,12.8567,2920.99,INE10177301019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,L&T,Industrials,6.7277,1210.86,INE94568701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Infosys,IT,7.5135,1387.1,INE85437701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,5.3772,1532.86,INE87284001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,TCS,IT,5.7459,1250.64,INE48191301019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,UltraTech Cement,Materials,1.4168,223.6,INE79650301019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,4.4224,1239.13,INE75342501019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Maruti Suzuki,Auto,4.4619,573.26,INE98920801019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Hindustan Unilever,FMCG,12.6308,1025.07,INE41491001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Bajaj Finance,Financials,3.9127,691.68,INE79928701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Kotak Mahindra Bank,Financials,11.1904,1702.03,INE52194701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,4.7496,1065.36,INE68134301019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,5.4862,448.89,INE54086901019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Wipro,IT,2.2111,478.11,INE49756201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Reliance Industries,Energy,11.2971,2477.78,INE28248001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,ICICI Bank,Financials,12.8567,2621.21,INE41556801019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,L&T,Industrials,6.7277,1019.38,INE97422401019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Infosys,IT,7.5135,376.44,INE40085001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,5.3772,551.41,INE92392701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,TCS,IT,5.7459,1120.43,INE78650801019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,UltraTech Cement,Materials,1.4168,184.98,INE56324601019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,4.4224,709.98,INE32408201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Maruti Suzuki,Auto,4.4619,793.3,INE93229101019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Hindustan Unilever,FMCG,12.6308,3477.19,INE93469201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Bajaj Finance,Financials,3.9127,915.53,INE79085501019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Kotak Mahindra Bank,Financials,11.1904,796.74,INE64049001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,4.7496,1025.75,INE74934201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,5.4862,734.03,INE95817901019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Wipro,IT,2.2111,636.8,INE34627701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Reliance Industries,Energy,11.2971,2465.01,INE33555201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,ICICI Bank,Financials,12.8567,3235.27,INE25451101019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,L&T,Industrials,6.7277,377.47,INE35673601019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Infosys,IT,7.5135,2223.89,INE74096701019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,5.3772,1411.17,INE17636501019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,TCS,IT,5.7459,941.49,INE76035601019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,UltraTech Cement,Materials,1.4168,274.74,INE85324001019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,4.4224,991.02,INE61839201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Maruti Suzuki,Auto,4.4619,668.9,INE25473901019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Hindustan Unilever,FMCG,12.6308,2703.16,INE10581401019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Bajaj Finance,Financials,3.9127,1068.8,INE90745101019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Kotak Mahindra Bank,Financials,11.1904,3036.68,INE91623201019
+118632,Nippon India Large Cap Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,4.7496,742.31,INE28443001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,4.8397,983.25,INE85421301019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,2.0059,547.62,INE54747001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,7.7057,1985.32,INE67448501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,3.8885,627.9,INE26688901019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,2.2001,519.04,INE59773201019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,UltraTech Cement,Materials,9.0726,1474.45,INE88829501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Infosys,IT,7.8843,881.54,INE76863601019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,8.2865,988.81,INE91545101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Sun Pharma,Healthcare,6.3959,1153.35,INE75719301019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,4.1308,453.61,INE56123901019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,3.2484,225.35,INE39960701019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Axis Bank,Financials,14.0914,1530.65,INE45216101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Bajaj Finance,Financials,9.5058,1235.06,INE66639001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,10.9251,766.33,INE25815701019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q1,Titan Company,Consumer,5.8194,627.42,INE82765901019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,4.8397,426.87,INE32434501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,2.0059,132.5,INE52739801019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,7.7057,1022.71,INE58855701019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,3.8885,598.6,INE31688101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,2.2001,568.13,INE50839601019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,UltraTech Cement,Materials,9.0726,2505.94,INE71245101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Infosys,IT,7.8843,2258.98,INE12048001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,8.2865,2189.14,INE90278401019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Sun Pharma,Healthcare,6.3959,1240.32,INE60014901019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,4.1308,212.63,INE46884501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,3.2484,404.93,INE50893001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Axis Bank,Financials,14.0914,3711.13,INE97632501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Bajaj Finance,Financials,9.5058,1471.07,INE88382601019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,10.9251,2552.73,INE93872201019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q2,Titan Company,Consumer,5.8194,1168.6,INE33125101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,4.8397,832.71,INE38619301019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,2.0059,318.86,INE13043401019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,7.7057,1134.39,INE80136401019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,3.8885,854.63,INE52395601019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,2.2001,508.33,INE98133401019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,UltraTech Cement,Materials,9.0726,1513.74,INE23382701019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Infosys,IT,7.8843,2327.29,INE66006901019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,8.2865,470.19,INE51316001019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Sun Pharma,Healthcare,6.3959,1266.22,INE79520501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,4.1308,234.53,INE77397101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,3.2484,510.5,INE58412501019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Axis Bank,Financials,14.0914,1344.77,INE37279301019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Bajaj Finance,Financials,9.5058,1376.21,INE32194101019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,10.9251,1788.16,INE45389401019
+119092,Axis Bluechip Fund - Direct Plan - Growth,2023-Q3,Titan Company,Consumer,5.8194,1398.43,INE49754201019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,4.3775,1258.1,INE30904401019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Maruti Suzuki,Auto,4.0767,1059.15,INE75151701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,UltraTech Cement,Materials,7.6714,675.81,INE23235201019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Infosys,IT,4.4981,757.44,INE21994601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Titan Company,Consumer,2.0365,388.96,INE32855201019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Reliance Industries,Energy,10.1317,1684.48,INE36869001019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,HCL Technologies,IT,12.5617,3036.48,INE27593901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Nestle India,FMCG,5.2009,1047.85,INE88425601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,2.4584,564.42,INE91557301019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Bajaj Finance,Financials,8.0818,2059.45,INE42614701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,6.6429,511.67,INE12692501019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,5.7952,1635.54,INE70376601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Sun Pharma,Healthcare,9.419,2065.93,INE49353701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,7.8371,1169.01,INE84974701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,9.211,917.26,INE72085901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,4.3775,974.66,INE75771101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Maruti Suzuki,Auto,4.0767,451.34,INE83105901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,UltraTech Cement,Materials,7.6714,1865.06,INE99159701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Infosys,IT,4.4981,994.38,INE94465701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Titan Company,Consumer,2.0365,163.46,INE69342301019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Reliance Industries,Energy,10.1317,2488.94,INE46406901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,HCL Technologies,IT,12.5617,2301.14,INE79365501019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Nestle India,FMCG,5.2009,741.88,INE63053801019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,2.4584,520.9,INE11326601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Bajaj Finance,Financials,8.0818,2120.62,INE96227601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,6.6429,1146.24,INE55458201019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,5.7952,1681.76,INE76645901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Sun Pharma,Healthcare,9.419,2570.39,INE58207101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,7.8371,1777.66,INE55664101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,9.211,866.15,INE64709101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,4.3775,1275.46,INE38320101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Maruti Suzuki,Auto,4.0767,831.55,INE66431501019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,UltraTech Cement,Materials,7.6714,1869.21,INE58745501019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Infosys,IT,4.4981,714.72,INE86653601019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Titan Company,Consumer,2.0365,403.47,INE43796001019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Reliance Industries,Energy,10.1317,2663.91,INE97108401019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,HCL Technologies,IT,12.5617,3563.2,INE39247701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Nestle India,FMCG,5.2009,1406.38,INE35570901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,2.4584,584.16,INE69753001019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Bajaj Finance,Financials,8.0818,1637.23,INE49739901019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,6.6429,890.81,INE61831701019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,5.7952,1522.63,INE29067201019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Sun Pharma,Healthcare,9.419,1619.01,INE47206001019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,7.8371,1955.02,INE45687101019
+120841,Kotak Bluechip Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,9.211,1104.54,INE72511301019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,5.6317,972.63,INE93145001019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Nestle India,FMCG,3.3166,180.13,INE40852801019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Reliance Industries,Energy,3.1621,333.28,INE82539101019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,5.4373,602.59,INE79621201019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,8.9014,1739.23,INE59624901019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,5.7156,1076.64,INE46045501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,3.5744,558.96,INE88216901019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,HCL Technologies,IT,5.9529,1116.74,INE46890001019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Titan Company,Consumer,6.0947,1375.66,INE38407601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,3.3381,422.8,INE34173601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,UltraTech Cement,Materials,14.6619,1175.35,INE30193901019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Maruti Suzuki,Auto,8.6458,1114.34,INE87896701019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,4.9562,911.77,INE89921301019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,Bajaj Finance,Financials,14.0484,3126.35,INE30084501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,6.5628,683.17,INE60771901019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,5.6317,670.88,INE71822601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Nestle India,FMCG,3.3166,975.57,INE65012101019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Reliance Industries,Energy,3.1621,629.89,INE20540901019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,5.4373,1403.67,INE41063601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,8.9014,951.3,INE28815801019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,5.7156,717.69,INE84241101019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,3.5744,656.03,INE38763601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,HCL Technologies,IT,5.9529,365.38,INE15717401019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Titan Company,Consumer,6.0947,1147.88,INE83129501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,3.3381,954.79,INE76885401019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,UltraTech Cement,Materials,14.6619,3916.41,INE61472301019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Maruti Suzuki,Auto,8.6458,654.03,INE11286101019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,4.9562,959.1,INE59219801019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,Bajaj Finance,Financials,14.0484,2383.72,INE45725601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,6.5628,630.63,INE15387201019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,5.6317,637.06,INE60093501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Nestle India,FMCG,3.3166,260.42,INE16851701019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Reliance Industries,Energy,3.1621,474.88,INE17768001019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,5.4373,1056.22,INE81979601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,8.9014,564.37,INE25644501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,5.7156,1444.82,INE41859401019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,3.5744,254.84,INE36024701019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,HCL Technologies,IT,5.9529,473.92,INE90157701019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Titan Company,Consumer,6.0947,938.85,INE72508401019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,3.3381,826.81,INE33665001019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,UltraTech Cement,Materials,14.6619,3576.37,INE49885501019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Maruti Suzuki,Auto,8.6458,1406.06,INE56422601019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,4.9562,616.24,INE71711301019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,Bajaj Finance,Financials,14.0484,4179.52,INE42021401019
+125497,HDFC Top 100 Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,6.5628,1261.1,INE16315601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,UltraTech Cement,Materials,6.3346,1030.17,INE72265601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,ICICI Bank,Financials,11.4556,1918.56,INE13422501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Hindustan Unilever,FMCG,8.7973,948.96,INE84129601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Nestle India,FMCG,7.2049,869.49,INE57608601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,L&T,Industrials,4.2587,288.72,INE34476201019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Wipro,IT,5.4614,1534.52,INE92609701019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,HDFC Bank,Financials,4.9694,1231.48,INE71843901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Infosys,IT,3.6658,789.22,INE30742801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Sun Pharma,Healthcare,17.55,2742.8,INE67101501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,SBI,Financials,8.84,938.83,INE25622601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Titan Company,Consumer,4.8551,1345.35,INE96678501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Maruti Suzuki,Auto,6.7932,581.22,INE16253501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Asian Paints,Consumer,5.0026,457.64,INE42255401019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,Reliance Industries,Energy,3.3052,656.95,INE96427801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q1,HCL Technologies,IT,1.5063,289.67,INE40263001019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,UltraTech Cement,Materials,6.3346,1012.2,INE59146501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,ICICI Bank,Financials,11.4556,2545.09,INE83372301019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Hindustan Unilever,FMCG,8.7973,1325.11,INE38547001019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Nestle India,FMCG,7.2049,1261.72,INE61778101019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,L&T,Industrials,4.2587,679.01,INE72708601019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Wipro,IT,5.4614,327.49,INE55301401019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,HDFC Bank,Financials,4.9694,1161.02,INE73303901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Infosys,IT,3.6658,412.74,INE19576301019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Sun Pharma,Healthcare,17.55,1881.91,INE80705301019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,SBI,Financials,8.84,2289.46,INE70313901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Titan Company,Consumer,4.8551,955.38,INE12175301019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Maruti Suzuki,Auto,6.7932,2037.22,INE80493801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Asian Paints,Consumer,5.0026,1277.43,INE70423801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,Reliance Industries,Energy,3.3052,198.5,INE89300501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q2,HCL Technologies,IT,1.5063,141.29,INE64417301019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,UltraTech Cement,Materials,6.3346,1348.49,INE39166801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,ICICI Bank,Financials,11.4556,1092.55,INE71376201019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Hindustan Unilever,FMCG,8.7973,1398.52,INE95379701019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Nestle India,FMCG,7.2049,1245.96,INE19567401019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,L&T,Industrials,4.2587,713.35,INE52818401019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Wipro,IT,5.4614,728.15,INE80268501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,HDFC Bank,Financials,4.9694,378.42,INE26863701019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Infosys,IT,3.6658,485.53,INE82736901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Sun Pharma,Healthcare,17.55,3051.37,INE79476901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,SBI,Financials,8.84,2530.87,INE95308501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Titan Company,Consumer,4.8551,1165.82,INE13847901019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Maruti Suzuki,Auto,6.7932,1112.09,INE42979501019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Asian Paints,Consumer,5.0026,565.79,INE22155201019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,Reliance Industries,Energy,3.3052,966.92,INE52380801019
+118825,Canara Robeco Bluechip Equity Fund - Direct,2023-Q3,HCL Technologies,IT,1.5063,401.02,INE96499801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Reliance Industries,Energy,6.786,561.56,INE40202001019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,5.299,845.35,INE83216801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,9.7269,1665.04,INE13027101019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Maruti Suzuki,Auto,3.7275,1093.23,INE73844801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,9.7358,2432.27,INE84426101019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,ICICI Bank,Financials,10.3602,928.21,INE67759601019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,L&T,Industrials,1.8766,100.25,INE52780901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Bajaj Finance,Financials,8.9895,658.95,INE98227701019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,8.1608,2270.6,INE58386301019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Kotak Mahindra Bank,Financials,4.9948,1432.34,INE77917201019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Wipro,IT,9.6392,2487.26,INE62258401019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,UltraTech Cement,Materials,8.7741,2484.52,INE40603901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Sun Pharma,Healthcare,5.6306,997.84,INE38670601019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,Infosys,IT,1.813,278.97,INE60593701019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q1,TCS,IT,4.4859,1323.63,INE35557001019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Reliance Industries,Energy,6.786,1114.23,INE25166801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,5.299,773.11,INE72849201019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,9.7269,1722.25,INE24313901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Maruti Suzuki,Auto,3.7275,991.54,INE38966601019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,9.7358,2367.43,INE99591601019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,ICICI Bank,Financials,10.3602,1592.73,INE92598101019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,L&T,Industrials,1.8766,332.04,INE96040801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Bajaj Finance,Financials,8.9895,455.24,INE86131901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,8.1608,1017.16,INE71544801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Kotak Mahindra Bank,Financials,4.9948,973.89,INE79199801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Wipro,IT,9.6392,1661.9,INE25581301019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,UltraTech Cement,Materials,8.7741,1418.23,INE60786801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Sun Pharma,Healthcare,5.6306,767.34,INE67872701019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,Infosys,IT,1.813,436.42,INE49553301019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q2,TCS,IT,4.4859,734.96,INE43740801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Reliance Industries,Energy,6.786,1814.57,INE83138001019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,5.299,581.31,INE50157401019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,9.7269,1054.31,INE91321701019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Maruti Suzuki,Auto,3.7275,569.17,INE43363201019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,9.7358,2299.35,INE83948501019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,ICICI Bank,Financials,10.3602,2883.83,INE49974901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,L&T,Industrials,1.8766,274.96,INE79592801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Bajaj Finance,Financials,8.9895,2230.28,INE78369101019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,8.1608,2409.11,INE61938901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Kotak Mahindra Bank,Financials,4.9948,1454.52,INE23237801019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Wipro,IT,9.6392,1692.39,INE71884901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,UltraTech Cement,Materials,8.7741,1166.95,INE20523901019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Sun Pharma,Healthcare,5.6306,1512.08,INE56169401019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,Infosys,IT,1.813,135.84,INE57912301019
+119028,DSP Top 100 Equity Fund - Direct - Growth,2023-Q3,TCS,IT,4.4859,241.51,INE25115701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Maruti Suzuki,Auto,9.4913,2179.96,INE89629001019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,TCS,IT,6.5666,1129.38,INE66729601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Infosys,IT,4.1558,245.09,INE17174401019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Titan Company,Consumer,5.6705,616.34,INE81764401019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,L&T,Industrials,5.8884,1650.11,INE33853601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Bajaj Finance,Financials,3.2213,762.46,INE55505201019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,4.0735,1199.98,INE89730501019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,HCL Technologies,IT,16.7679,3495.06,INE20538901019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Hindustan Unilever,FMCG,0.7423,119.46,INE82771201019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Wipro,IT,5.6316,703.2,INE13035301019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,9.491,583.68,INE93481601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,5.5756,357.01,INE47587601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,SBI,Financials,3.8088,547.36,INE25264001019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,4.487,498.27,INE53206701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q1,ITC,FMCG,14.4284,2762.78,INE93101601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Maruti Suzuki,Auto,9.4913,901.81,INE28357301019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,TCS,IT,6.5666,457.97,INE50112601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Infosys,IT,4.1558,851.63,INE35252801019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Titan Company,Consumer,5.6705,989.03,INE71148401019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,L&T,Industrials,5.8884,505.1,INE58355001019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Bajaj Finance,Financials,3.2213,674.79,INE58189401019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,4.0735,463.69,INE10985301019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,HCL Technologies,IT,16.7679,4606.61,INE58785301019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Hindustan Unilever,FMCG,0.7423,204.37,INE81052601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Wipro,IT,5.6316,1051.13,INE17744901019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,9.491,1522.66,INE46235101019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,5.5756,1655.47,INE41368501019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,SBI,Financials,3.8088,798.84,INE54492001019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,4.487,998.7,INE57902701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q2,ITC,FMCG,14.4284,3770.52,INE30889401019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Maruti Suzuki,Auto,9.4913,2845.91,INE99478701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,TCS,IT,6.5666,1121.59,INE34872801019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Infosys,IT,4.1558,604.01,INE47639501019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Titan Company,Consumer,5.6705,1098.39,INE83324701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,L&T,Industrials,5.8884,729.02,INE97035701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Bajaj Finance,Financials,3.2213,691.16,INE38781301019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,4.0735,211.92,INE81911201019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,HCL Technologies,IT,16.7679,4101.07,INE15142601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Hindustan Unilever,FMCG,0.7423,206.11,INE88136901019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Wipro,IT,5.6316,980.92,INE40009601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,9.491,2315.19,INE34129601019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,5.5756,1124.97,INE46943501019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,SBI,Financials,3.8088,398.98,INE29936701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,4.487,920.82,INE81068701019
+118778,Mirae Asset Large Cap Fund - Direct - Growth,2023-Q3,ITC,FMCG,14.4284,3446.86,INE90475101019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,TCS,IT,8.5586,803.74,INE23857901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,ICICI Bank,Financials,8.2636,2038.04,INE48362901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,5.5795,1019.46,INE38576501019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,6.8053,1753.16,INE36945201019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,3.0906,860.77,INE60525401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Reliance Industries,Energy,15.9427,4652.82,INE40947801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,ITC,FMCG,8.8816,2101.75,INE45516801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Bajaj Finance,Financials,5.9966,1505.49,INE59108101019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,HCL Technologies,IT,6.5251,1897.01,INE24759401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Infosys,IT,7.8631,1875.66,INE33657401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,3.072,814.18,INE85939601019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,UltraTech Cement,Materials,4.9589,1084.02,INE51671601019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,SBI,Financials,3.1388,915.96,INE94367101019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Kotak Mahindra Bank,Financials,8.8498,1675.52,INE19468901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q1,Sun Pharma,Healthcare,2.4736,612.64,INE11459401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,TCS,IT,8.5586,993.78,INE22959201019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,ICICI Bank,Financials,8.2636,1352.72,INE80551101019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,5.5795,1323.76,INE37489601019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,6.8053,1334.79,INE96236701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,3.0906,647.91,INE48951801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Reliance Industries,Energy,15.9427,1228.97,INE34518001019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,ITC,FMCG,8.8816,1490.95,INE74964101019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Bajaj Finance,Financials,5.9966,1625.42,INE68867801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,HCL Technologies,IT,6.5251,861.33,INE73971701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Infosys,IT,7.8631,828.32,INE16628701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,3.072,641.59,INE58681901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,UltraTech Cement,Materials,4.9589,1375.34,INE41686901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,SBI,Financials,3.1388,666.4,INE22234301019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Kotak Mahindra Bank,Financials,8.8498,751.74,INE13901901019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q2,Sun Pharma,Healthcare,2.4736,311.9,INE61655401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,TCS,IT,8.5586,676.39,INE34620501019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,ICICI Bank,Financials,8.2636,2246.17,INE24225401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,5.5795,821.09,INE48903301019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,6.8053,1480.97,INE87923801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,3.0906,692.67,INE66643201019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Reliance Industries,Energy,15.9427,2467.64,INE87832501019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,ITC,FMCG,8.8816,2057.43,INE53503701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Bajaj Finance,Financials,5.9966,1281.65,INE97419001019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,HCL Technologies,IT,6.5251,1124.52,INE52794001019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Infosys,IT,7.8631,2239.13,INE39332801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,3.072,178.73,INE48852801019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,UltraTech Cement,Materials,4.9589,517.3,INE56629701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,SBI,Financials,3.1388,902.85,INE99700401019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Kotak Mahindra Bank,Financials,8.8498,1244.92,INE81898701019
+120465,Franklin India Bluechip Fund - Direct - Growth,2023-Q3,Sun Pharma,Healthcare,2.4736,350.84,INE77614901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,HCL Technologies,IT,3.1115,345.04,INE23204001019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,9.0108,2223.36,INE31517301019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,6.4763,434.9,INE90232501019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,13.7499,2592.57,INE71486701019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,4.6757,486.22,INE34431601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Sun Pharma,Healthcare,5.163,682.23,INE25472101019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Maruti Suzuki,Auto,12.1367,2999.71,INE72493201019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,10.4222,528.5,INE25171601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,9.118,2706.97,INE66645601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,3.5306,397.77,INE28297301019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,3.7197,288.21,INE12703201019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Reliance Industries,Energy,5.4222,449.77,INE47564401019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,5.3401,1321.64,INE34948901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Titan Company,Consumer,3.5724,704.52,INE11654701019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q1,Infosys,IT,4.5511,425.81,INE15494401019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,HCL Technologies,IT,3.1115,254.17,INE54140901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,9.0108,1635.65,INE88188601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,6.4763,426.72,INE57005001019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,13.7499,3361.91,INE63816901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,4.6757,927.74,INE57396201019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Sun Pharma,Healthcare,5.163,908.47,INE74498601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Maruti Suzuki,Auto,12.1367,738.41,INE92127301019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,10.4222,2888.91,INE79090901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,9.118,1644.55,INE58029201019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,3.5306,744.38,INE13266301019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,3.7197,242.55,INE60224801019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Reliance Industries,Energy,5.4222,1419.65,INE54698001019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,5.3401,1182.95,INE61408401019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Titan Company,Consumer,3.5724,814.86,INE56510801019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q2,Infosys,IT,4.5511,311.17,INE18471401019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,HCL Technologies,IT,3.1115,406.13,INE25553901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,9.0108,598.5,INE38837501019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,6.4763,1334.63,INE71379901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,13.7499,2572.46,INE44098101019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,4.6757,679.04,INE72641001019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Sun Pharma,Healthcare,5.163,942.96,INE57575501019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Maruti Suzuki,Auto,12.1367,2140.76,INE55109601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,10.4222,779.53,INE83586901019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,9.118,716.71,INE78651601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,3.5306,751.07,INE90631501019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,3.7197,698.68,INE32546801019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Reliance Industries,Energy,5.4222,854.08,INE33959201019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,5.3401,819.45,INE96761101019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Titan Company,Consumer,3.5724,583.64,INE53619601019
+118989,UTI Mastershare Fund - Direct Plan - Growth,2023-Q3,Infosys,IT,4.5511,1057.69,INE42773001019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Maruti Suzuki,Auto,4.8798,698.6,INE23643501019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,8.9436,1691.17,INE71495301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,L&T,Industrials,10.3219,2984.65,INE68896701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,HCL Technologies,IT,7.2896,965.23,INE22816801019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,TCS,IT,1.8605,284.1,INE79766001019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Sun Pharma,Healthcare,9.6028,2739.51,INE54348101019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,7.3097,1951.85,INE85608601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,8.2421,518.11,INE40160101019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,3.2845,657.23,INE46872701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,10.9679,832.47,INE63206001019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,4.4724,461.48,INE78863701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Hindustan Unilever,FMCG,3.1357,534.78,INE98843201019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Axis Bank,Financials,7.6676,590.82,INE98643801019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Bajaj Finance,Financials,4.8375,914.61,INE22046501019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q1,Nestle India,FMCG,7.1844,1728.94,INE70198701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Maruti Suzuki,Auto,4.8798,519.89,INE54995601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,8.9436,2336.86,INE90471101019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,L&T,Industrials,10.3219,2628.03,INE74337801019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,HCL Technologies,IT,7.2896,1594.57,INE68378301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,TCS,IT,1.8605,105.24,INE78978601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Sun Pharma,Healthcare,9.6028,2471.42,INE38043901019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,7.3097,418.39,INE38654401019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,8.2421,1860.04,INE42399301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,3.2845,920.91,INE46807401019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,10.9679,565.14,INE25021001019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,4.4724,856.82,INE52025201019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Hindustan Unilever,FMCG,3.1357,211.33,INE87696201019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Axis Bank,Financials,7.6676,1597.11,INE13214601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Bajaj Finance,Financials,4.8375,352.85,INE65625101019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q2,Nestle India,FMCG,7.1844,745.62,INE54022601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Maruti Suzuki,Auto,4.8798,797.41,INE26505501019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,8.9436,1274.58,INE85664801019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,L&T,Industrials,10.3219,1353.16,INE69516401019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,HCL Technologies,IT,7.2896,1451.05,INE15516401019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,TCS,IT,1.8605,165.39,INE89108301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Sun Pharma,Healthcare,9.6028,1963.38,INE80670701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,7.3097,514.57,INE56463701019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,8.2421,1776.05,INE60925301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,3.2845,662.7,INE53430301019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,10.9679,1297.41,INE89161501019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,4.4724,796.47,INE46193901019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Hindustan Unilever,FMCG,3.1357,493.8,INE39700501019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Axis Bank,Financials,7.6676,1683.45,INE72194601019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Bajaj Finance,Financials,4.8375,830.4,INE79953901019
+119226,Tata Large Cap Fund - Direct Plan - Growth,2023-Q3,Nestle India,FMCG,7.1844,913.18,INE33123001019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,SBI,Financials,6.1412,968.25,INE23546101019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,HDFC Bank,Financials,3.7661,546.28,INE83785201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Reliance Industries,Energy,6.0458,650.09,INE68586401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Hindustan Unilever,FMCG,3.2324,835.05,INE94536201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Axis Bank,Financials,11.2071,1552.66,INE51635901019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,ICICI Bank,Financials,1.2289,326.2,INE14435701019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,UltraTech Cement,Materials,14.1842,2256.07,INE58208701019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Infosys,IT,3.4122,956.4,INE42826701019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,TCS,IT,13.2005,2560.1,INE70125301019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,HCL Technologies,IT,10.4387,1577.34,INE77123701019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Bajaj Finance,Financials,1.7793,274.77,INE22076801019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Sun Pharma,Healthcare,8.5746,1296.97,INE44054401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Nestle India,FMCG,3.0982,288.03,INE74815101019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Asian Paints,Consumer,8.6008,1419.34,INE82310801019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q1,Titan Company,Consumer,5.09,1424.91,INE19241001019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,SBI,Financials,6.1412,977.54,INE21100501019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,HDFC Bank,Financials,3.7661,417.4,INE71747601019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Reliance Industries,Energy,6.0458,907.55,INE18246701019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Hindustan Unilever,FMCG,3.2324,481.44,INE42534601019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Axis Bank,Financials,11.2071,2649.94,INE33233501019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,ICICI Bank,Financials,1.2289,163.77,INE27629901019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,UltraTech Cement,Materials,14.1842,980.06,INE76398401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Infosys,IT,3.4122,267.88,INE63472301019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,TCS,IT,13.2005,1299.93,INE91393401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,HCL Technologies,IT,10.4387,1433.69,INE86271201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Bajaj Finance,Financials,1.7793,515.21,INE77679601019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Sun Pharma,Healthcare,8.5746,2175.88,INE34774501019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Nestle India,FMCG,3.0982,234.54,INE36840201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Asian Paints,Consumer,8.6008,854.22,INE73166101019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q2,Titan Company,Consumer,5.09,449.03,INE89602801019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,SBI,Financials,6.1412,1313.46,INE28575101019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,HDFC Bank,Financials,3.7661,1083.97,INE75845201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Reliance Industries,Energy,6.0458,1049.12,INE89109301019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Hindustan Unilever,FMCG,3.2324,617.17,INE70761601019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Axis Bank,Financials,11.2071,1818.09,INE69191201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,ICICI Bank,Financials,1.2289,258.99,INE75485801019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,UltraTech Cement,Materials,14.1842,1855.33,INE75768501019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Infosys,IT,3.4122,440.29,INE56112401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,TCS,IT,13.2005,885.38,INE56368801019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,HCL Technologies,IT,10.4387,2169.64,INE93501201019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Bajaj Finance,Financials,1.7793,211.15,INE15890001019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Sun Pharma,Healthcare,8.5746,1183.17,INE17779401019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Nestle India,FMCG,3.0982,395.34,INE57386601019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Asian Paints,Consumer,8.6008,510.9,INE48664901019
+120178,Aditya Birla SL Frontline Equity - Direct,2023-Q3,Titan Company,Consumer,5.09,1312.84,INE18045801019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Infosys,IT,1.4041,106.54,INE97805301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,ITC,FMCG,7.8753,1069.94,INE84901401019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,SBI,Financials,5.6255,399.87,INE77751301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Asian Paints,Consumer,5.966,555.67,INE35977801019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,HDFC Bank,Financials,1.6027,363.66,INE56076701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Kotak Mahindra Bank,Financials,1.4761,267.2,INE73942701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Nestle India,FMCG,4.9813,446.75,INE49096301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Axis Bank,Financials,10.0925,2820.69,INE50623501019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Wipro,IT,8.7967,1338.79,INE45480301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,ICICI Bank,Financials,7.7339,1699.33,INE15490901019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Bajaj Finance,Financials,11.8847,2939.16,INE77874801019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Sun Pharma,Healthcare,4.0911,546.82,INE44570501019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,UltraTech Cement,Materials,8.0035,589.27,INE81133201019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,Reliance Industries,Energy,1.9226,281.93,INE36423601019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q1,HCL Technologies,IT,18.5442,4282.46,INE78845701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Infosys,IT,1.4041,408.74,INE73197701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,ITC,FMCG,7.8753,2113.11,INE44955501019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,SBI,Financials,5.6255,395.9,INE79584701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Asian Paints,Consumer,5.966,509.24,INE46681301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,HDFC Bank,Financials,1.6027,204.44,INE78792301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Kotak Mahindra Bank,Financials,1.4761,331.56,INE51099701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Nestle India,FMCG,4.9813,409.65,INE84326601019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Axis Bank,Financials,10.0925,2871.32,INE42462001019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Wipro,IT,8.7967,1669.01,INE77475101019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,ICICI Bank,Financials,7.7339,1917.36,INE95268601019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Bajaj Finance,Financials,11.8847,973.93,INE83697101019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Sun Pharma,Healthcare,4.0911,1052.38,INE87466101019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,UltraTech Cement,Materials,8.0035,2395.36,INE65196301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,Reliance Industries,Energy,1.9226,141.05,INE80302401019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q2,HCL Technologies,IT,18.5442,2890.14,INE47940401019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Infosys,IT,1.4041,76.6,INE42386901019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,ITC,FMCG,7.8753,748.67,INE32459701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,SBI,Financials,5.6255,761.88,INE90337301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Asian Paints,Consumer,5.966,1023.57,INE33754701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,HDFC Bank,Financials,1.6027,480.8,INE26247101019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Kotak Mahindra Bank,Financials,1.4761,102.28,INE98544701019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Nestle India,FMCG,4.9813,1230.52,INE63235101019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Axis Bank,Financials,10.0925,2449.64,INE97568601019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Wipro,IT,8.7967,2064.25,INE65210801019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,ICICI Bank,Financials,7.7339,459.68,INE45312301019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Bajaj Finance,Financials,11.8847,3198.15,INE74805201019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Sun Pharma,Healthcare,4.0911,338.58,INE49501901019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,UltraTech Cement,Materials,8.0035,708.81,INE28963001019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,Reliance Industries,Energy,1.9226,495.71,INE90855401019
+119802,IDFC Large Cap Fund - Direct Plan - Growth,2023-Q3,HCL Technologies,IT,18.5442,3823.53,INE27358001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Asian Paints,Consumer,4.37,1206.1,INE30344001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,HDFC Bank,Financials,9.1846,1303.85,INE69812801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Maruti Suzuki,Auto,17.18,5087.16,INE58410601019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,HCL Technologies,IT,5.6096,1359.55,INE91592201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Kotak Mahindra Bank,Financials,9.0574,1317.56,INE65308101019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Titan Company,Consumer,7.909,1223.25,INE26993001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Axis Bank,Financials,5.4369,1382.18,INE94018101019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,TCS,IT,4.725,950.5,INE36214701019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,ITC,FMCG,3.1286,197.25,INE60393501019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,UltraTech Cement,Materials,0.6988,187.65,INE68147801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,ICICI Bank,Financials,6.4186,1820.13,INE84595701019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,L&T,Industrials,4.4475,1162.89,INE99251201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Nestle India,FMCG,4.257,345.53,INE18794901019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Infosys,IT,9.9857,2404.35,INE38604201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q1,Wipro,IT,7.5914,1232.32,INE63828901019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Asian Paints,Consumer,4.37,379.48,INE55872301019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,HDFC Bank,Financials,9.1846,669.82,INE33282301019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Maruti Suzuki,Auto,17.18,4366.73,INE46656601019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,HCL Technologies,IT,5.6096,1585.39,INE53505001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Kotak Mahindra Bank,Financials,9.0574,573.46,INE62639201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Titan Company,Consumer,7.909,1134.86,INE50492401019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Axis Bank,Financials,5.4369,1623.62,INE49312401019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,TCS,IT,4.725,501.48,INE43416501019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,ITC,FMCG,3.1286,884.49,INE97994001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,UltraTech Cement,Materials,0.6988,159.8,INE45157701019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,ICICI Bank,Financials,6.4186,1590.81,INE24428301019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,L&T,Industrials,4.4475,264.96,INE97006801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Nestle India,FMCG,4.257,715.65,INE97148201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Infosys,IT,9.9857,845.77,INE83980801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q2,Wipro,IT,7.5914,1269.88,INE74523901019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Asian Paints,Consumer,4.37,224.24,INE18307401019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,HDFC Bank,Financials,9.1846,502.87,INE32613001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Maruti Suzuki,Auto,17.18,4445.16,INE67546201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,HCL Technologies,IT,5.6096,1599.07,INE73845701019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Kotak Mahindra Bank,Financials,9.0574,1647.92,INE21658701019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Titan Company,Consumer,7.909,1930.14,INE34918301019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Axis Bank,Financials,5.4369,681.17,INE15006801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,TCS,IT,4.725,517.9,INE76998901019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,ITC,FMCG,3.1286,777.39,INE57931801019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,UltraTech Cement,Materials,0.6988,45.91,INE97733001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,ICICI Bank,Financials,6.4186,1773.36,INE72572601019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,L&T,Industrials,4.4475,818.39,INE76265201019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Nestle India,FMCG,4.257,761.33,INE35369001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Infosys,IT,9.9857,2293.08,INE40542001019
+120654,Invesco India Largecap Fund - Direct - Growth,2023-Q3,Wipro,IT,7.5914,1194.21,INE74467401019
