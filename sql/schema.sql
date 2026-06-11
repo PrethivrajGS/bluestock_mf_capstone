@@ -57,3 +57,9 @@ aum REAL,
 FOREIGN KEY (fund_id) REFERENCES dim_fund(fund_id),
 FOREIGN KEY (date_id) REFERENCES dim_date(date_id)
 );
+-- sql/schema.sql
+ALTER TABLE fund_performance
+ADD FOREIGN KEY (amfi_code) REFERENCES schemes(amfi_code);
+
+ALTER TABLE sip_inflows
+ADD FOREIGN KEY (date) REFERENCES aum(date);
