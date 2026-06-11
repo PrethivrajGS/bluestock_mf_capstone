@@ -1,7 +1,12 @@
 import requests
 import pandas as pd
 from pathlib import Path
+"""
+Live NAV Fetch Module.
 
+Fetches mutual fund NAV data from the MFAPI service
+and stores the data as CSV files for further analysis.
+"""
 funds = {
     "SBI_Bluechip": 119551,
     "ICICI_Bluechip": 120503,

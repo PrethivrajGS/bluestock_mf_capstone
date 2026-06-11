@@ -2,22 +2,25 @@
 
 ## Overview
 
-This project is a comprehensive Mutual Fund Analytics platform designed to perform data ingestion, validation, exploratory data analysis (EDA), performance measurement, risk analytics, and dashboard reporting using Indian Mutual Fund data.
+The Mutual Fund Analytics Capstone Project is an end-to-end data analytics solution designed to analyze Indian mutual fund data using Python, SQLite, Jupyter Notebook, and Power BI.
 
-The project combines historical mutual fund datasets with live NAV data fetched from the MFAPI service to generate meaningful insights for investors and analysts.
+The project performs data ingestion, cleaning, exploratory data analysis, performance measurement, risk analytics, advanced analytics, dashboard development, and reporting. Historical mutual fund datasets are combined with live NAV data fetched through MFAPI to generate actionable insights for investors and analysts.
 
 ---
 
 ## Project Objectives
 
+The primary objectives of this project are:
+
 * Ingest and validate multiple mutual fund datasets
 * Fetch live NAV data using MFAPI
-* Store and manage data efficiently
-* Perform data quality checks
+* Store and manage data using SQLite
+* Perform data cleaning and quality validation
 * Analyze fund performance and risk
-* Calculate financial metrics
+* Calculate financial and risk-adjusted metrics
 * Build interactive dashboards
-* Generate business reports and presentations
+* Generate reports and presentations
+* Develop a simple fund recommendation engine
 
 ---
 
@@ -25,33 +28,37 @@ The project combines historical mutual fund datasets with live NAV data fetched 
 
 ```text
 bluestock_mf_capstone/
-│
 ├── data/
 │   ├── raw/
 │   ├── processed/
-│   ├── db/
-│   └── raw/live_nav/
-│
+│   └── db/
 ├── notebooks/
-│
+│   ├── 01_data_ingestion.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda_analysis.ipynb
+│   ├── 04_performance_analytics.ipynb
+│   └── 05_advanced_analytics.ipynb
 ├── scripts/
-│
+│   ├── etl_pipeline.py
+│   ├── live_nav_fetch.py
+│   ├── compute_metrics.py
+│   └── recommender.py
 ├── sql/
-│
+│   ├── schema.sql
+│   └── queries.sql
 ├── dashboard/
-│
+│   └── bluestock_mf.pbix
 ├── reports/
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+│   ├── Final_Report.pdf
+│   └── Presentation.pptx
+└── README.md
 ```
 
 ---
 
 ## Datasets Used
 
-The project uses 10 mutual fund datasets:
+The project uses the following mutual fund datasets:
 
 1. fund_master.csv
 2. scheme_details.csv
@@ -64,11 +71,16 @@ The project uses 10 mutual fund datasets:
 9. benchmark_data.csv
 10. sip_data.csv
 
+Additional derived datasets:
+
+* alpha_beta.csv
+* fund_scorecard.csv
+
 ---
 
-## Technologies Used
+## Technology Stack
 
-### Programming
+### Programming Language
 
 * Python 3.x
 
@@ -79,8 +91,9 @@ The project uses 10 mutual fund datasets:
 * Matplotlib
 * Seaborn
 * Plotly
-* SQLAlchemy
 * Requests
+* SQLite3
+* SQLAlchemy
 * SciPy
 * Jupyter Notebook
 
@@ -90,7 +103,7 @@ The project uses 10 mutual fund datasets:
 * Git
 * GitHub
 * SQLite
-* Power BI (Dashboard)
+* Power BI
 
 ---
 
@@ -103,13 +116,13 @@ git clone <repository_url>
 cd bluestock_mf_capstone
 ```
 
-Create virtual environment:
+Create a virtual environment:
 
 ```bash
 python -m venv venv
 ```
 
-Activate environment:
+Activate the environment:
 
 ### Windows
 
@@ -117,7 +130,7 @@ Activate environment:
 venv\Scripts\activate
 ```
 
-### Linux / Mac
+### Linux / macOS
 
 ```bash
 source venv/bin/activate
@@ -131,30 +144,116 @@ pip install -r requirements.txt
 
 ---
 
-## Day 1 Deliverables
+## Project Workflow
 
-### Data Ingestion
+### Phase 1 - Data Ingestion
 
-* Project folder structure created
-* Dependencies installed
-* 10 CSV datasets loaded
-* Dataset profiling completed
-* Missing values identified
-* Duplicate rows identified
+* Loaded all mutual fund datasets
+* Profiled datasets
+* Identified missing values
+* Identified duplicate records
+* Validated dataset structure
 
-### Live NAV Fetching
+Notebook:
 
-Live NAV data fetched from:
+```text
+01_data_ingestion.ipynb
+```
+
+---
+
+### Phase 2 - Data Cleaning
+
+Performed:
+
+* Missing value treatment
+* Duplicate removal
+* Data type corrections
+* Date standardization
+* Dataset consistency checks
+
+Notebook:
+
+```text
+02_data_cleaning.ipynb
+```
+
+---
+
+### Phase 3 - Exploratory Data Analysis
+
+Analysis performed on:
+
+* Fund categories
+* Asset Management Companies (AMCs)
+* Assets Under Management (AUM)
+* Risk metrics
+* Expense ratios
+* Portfolio holdings
+* SIP investments
+
+Notebook:
+
+```text
+03_eda_analysis.ipynb
+```
+
+---
+
+### Phase 4 - Performance Analytics
+
+Calculated and analyzed:
+
+* Returns
+* Alpha
+* Beta
+* Sharpe Ratio
+* Sortino Ratio
+* Maximum Drawdown
+* Volatility
+* Fund Rankings
+
+Notebook:
+
+```text
+04_performance_analytics.ipynb
+```
+
+---
+
+### Phase 5 - Advanced Analytics
+
+Implemented:
+
+* Value at Risk (VaR) Analysis
+* SIP Performance Analysis
+* Portfolio Concentration Analysis
+* HHI (Herfindahl-Hirschman Index)
+* Risk-Based Fund Recommendation Engine
+
+Notebook:
+
+```text
+05_advanced_analytics.ipynb
+```
+
+---
+
+## Live NAV Data Integration
+
+Live NAV data was fetched using MFAPI.
+
+Source:
 
 ```text
 https://api.mfapi.in
 ```
 
-Funds Downloaded:
+Sample Funds:
 
 * SBI Bluechip Fund
-* ICICI Bluechip Fund
-* Nippon Large Cap Fund
+* ICICI Prudential Bluechip Fund
+* Nippon India Large Cap Fund
 * Axis Bluechip Fund
 * Kotak Bluechip Fund
 
@@ -164,39 +263,7 @@ Stored in:
 data/raw/live_nav/
 ```
 
----
-
-## Scripts
-
-### data_ingestion.py
-
-Functions:
-
-* Load all CSV files
-* Display dataset shape
-* Display column names
-* Display data types
-* Display sample records
-* Check missing values
-* Check duplicate records
-
-Run:
-
-```bash
-python scripts/data_ingestion.py
-```
-
----
-
-### live_nav_fetch.py
-
-Functions:
-
-* Connect to MFAPI
-* Download historical NAV data
-* Save NAV data as CSV files
-
-Run:
+Script:
 
 ```bash
 python scripts/live_nav_fetch.py
@@ -204,71 +271,108 @@ python scripts/live_nav_fetch.py
 
 ---
 
-## Data Quality Checks
+## ETL Pipeline
 
-The following validations are performed:
+The ETL pipeline loads processed datasets into SQLite for reporting and dashboarding.
 
-* Missing Value Analysis
-* Duplicate Record Detection
-* Data Type Validation
-* AMFI Scheme Code Validation
-* Dataset Relationship Verification
+Run:
+
+```bash
+python scripts/etl_pipeline.py
+```
+
+Database Output:
+
+```text
+data/db/bluestock_mf.db
+```
 
 ---
 
-## Planned Analytics
+## Fund Recommendation Engine
 
-### Exploratory Data Analysis (EDA)
+The recommendation engine suggests funds based on investor risk appetite.
 
-* Fund category analysis
-* Fund house analysis
-* NAV trend analysis
-* AUM analysis
-* Expense ratio analysis
+Supported Risk Profiles:
 
-### Performance Metrics
+* Low Risk
+* Moderate Risk
+* High Risk
 
-* CAGR
-* Annualized Return
-* Volatility
-* Sharpe Ratio
-* Sortino Ratio
-* Alpha
-* Beta
-* Maximum Drawdown
-* Value at Risk (VaR)
+Run:
 
-### Advanced Analytics
-
-* Fund Recommendation Engine
-* Risk Segmentation
-* Portfolio Analytics
-* Cohort Analysis
+```bash
+python scripts/recommender.py
+```
 
 ---
 
 ## Dashboard
 
-Interactive dashboard pages:
+A Power BI dashboard was developed to visualize mutual fund analytics.
+
+Dashboard Pages:
 
 1. Executive Overview
 2. Fund Performance Analysis
 3. Risk Analytics
 4. Investment Recommendations
 
-Tools:
+Dashboard File:
 
-* Power BI
+```text
+dashboard/bluestock_mf.pbix
+```
 
 ---
 
-## Bonus Features
+## Reports
 
-* Automated NAV ETL Scheduling
-* Streamlit Web Application
-* Monte Carlo Simulation
-* Markowitz Portfolio Optimization
-* Automated Email Reporting
+### Final Project Report
+
+```text
+reports/Final_Report.pdf
+```
+
+Contents:
+
+* Executive Summary
+* Data Sources
+* ETL Design
+* EDA Findings
+* Performance Analysis
+* Risk Analytics
+* Dashboard Screenshots
+* Recommendations
+
+### Presentation
+
+```text
+reports/Presentation.pptx
+```
+
+Contains a 12-slide summary of the project.
+
+---
+
+## Key Insights
+
+* Mutual fund performance varies significantly across categories and fund houses.
+* Funds with higher Sharpe ratios generally provide superior risk-adjusted returns.
+* Portfolio concentration can be measured using HHI to identify diversification levels.
+* SIP investments demonstrate consistent long-term wealth creation.
+* Risk metrics such as VaR and Maximum Drawdown help evaluate downside exposure.
+
+---
+
+## Future Enhancements
+
+* Automated ETL scheduling
+* Streamlit web application
+* Portfolio optimization models
+* Monte Carlo simulations
+* Automated report generation
+* Cloud deployment
 
 ---
 
@@ -282,6 +386,16 @@ Anna University
 
 ---
 
+## Version
+
+Current Release:
+
+```text
+v1.0
+```
+
+---
+
 ## License
 
-This project is developed for academic and learning purposes.
+This project is developed for academic and educational purposes.

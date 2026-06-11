@@ -1,7 +1,12 @@
 # ==========================================
 # STEP 5: LOAD CLEANED DATA INTO SQLITE
 # ==========================================
+"""
+SQLite Data Loader.
 
+Loads processed mutual fund datasets into a SQLite
+database for analytics, reporting, and dashboarding.
+"""
 from sqlalchemy import create_engine, text
 import pandas as pd
 from pathlib import Path

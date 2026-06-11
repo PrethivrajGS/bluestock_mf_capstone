@@ -1,5 +1,10 @@
 import pandas as pd
+"""
+Fund Recommendation Engine.
 
+Recommends top mutual funds based on
+user risk appetite (Low, Moderate, High).
+"""
 risk = pd.read_csv(
     "../data/processed/risk_metrics.csv"
 )

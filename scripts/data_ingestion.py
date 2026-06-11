@@ -1,6 +1,11 @@
 from pathlib import Path
 import pandas as pd
+"""
+Data Ingestion Module.
 
+Loads raw mutual fund datasets and performs
+basic validation checks.
+"""
 DATA_PATH = Path("../data/raw")
 
 csv_files = list(DATA_PATH.glob("*.csv"))
